@@ -2,4 +2,15 @@
     <string name="app_name">Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preview_fragment">Preview Fragment</string>
+    <string name="go_to_cart">Go To Cart</string>
+    <string name="food_dialog">Food Dialog</string>
+    <string name="bak_to_menu">Bak To Menu</string>
+    <string name="cart">Cart</string>
+    <string name="place_order">Place order</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="go_to_cartfragment">Go to CartFragment</string>
+    <string name="this_is_a_bottom_sheet">This is a bottom sheet</string>
+
+
 </resources>
